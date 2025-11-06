@@ -3,7 +3,7 @@ from ultralytics import YOLO
 from PIL import Image
 
 # Load your trained YOLOv8 classification model
-model = YOLO('runs/classify/train/weights/best.pt')
+model = YOLO('best.pt')
 
 # Define bin color mapping
 bin_color = {
@@ -54,3 +54,4 @@ if uploaded_file is not None:
 
 st.markdown("---")
 st.caption("Developed using Streamlit and YOLOv8")
+
