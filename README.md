@@ -28,11 +28,11 @@ A **user-friendly Streamlit web app** was developed to make the system accessibl
 
 | Metric    | Value |
 | :-------- | :---: |
-| Precision |  0.80 |
-| Recall    |  1.00 |
-| F1 Score  |  0.88 |
+| Precision |  0.875 |
+| Recall    |  0.778 |
+| F1 Score  |  0.824 |
 
-✅ *An F1 score of 0.88 indicates strong model performance with balanced precision and recall.*
+✅ *An F1 score of 0.82 indicates strong model performance with balanced precision and recall.*
 
 ### 🌍 Impact
 
